@@ -1,0 +1,5 @@
+/build*/
+/*.g1a
+/*.g3a
+__pycache__/
+.DS_Store
